@@ -74,6 +74,8 @@ Calcula el costo de envío promedio para cada tienda, permitiendo evaluar la efi
    ```
    git clone https://github.com/hernanschimpf/challenge1-data-science-latam-main.git
    cd challenge1-data-science-latam-main
+   -para ver los graficos:
+   cd challenge1-data-science-latam-main\visualizaciones
    ```
 
 2. Instale las dependencias:
